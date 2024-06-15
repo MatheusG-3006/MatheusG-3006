@@ -19,7 +19,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scratch/scratch-original.svg" title="Scratch" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scratch/scratch-original.svg" title="Scratch" alt="Scratch" width="40" height="40"/>
+
 
 </div>
 
