@@ -21,7 +21,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="css" alt="css" width="40" height="/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="CSS" alt="CSS" width="40" height="40/>
 </div>
 
 *** 
