@@ -1,5 +1,3 @@
-<img src = "banner.webp" width = "325px" align = "right">
-
 # 📖About Me:
 🖥️Atualmente cursando Ciência da Computação pela Universidade Presbiteriana Mackenzie
 
