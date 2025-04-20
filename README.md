@@ -11,7 +11,7 @@
 ***
 
 
-# 🌐Programming languages:
+# 🌐Programming languages:"
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
-  <a href = "https://www.linkedin.com/in/matheus-gon%C3%A7alves-341285224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href = "www.linkedin.com/in/matheus-gonçalves-dos-santos-ba1553360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
