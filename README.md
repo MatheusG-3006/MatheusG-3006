@@ -26,7 +26,7 @@
 *** 
 
 <div id = "badges">
-  <a href = "https://www.instagram.com/mgsantos06?igsh=eWVoeWV1YWt1a25z">
+  <a href = "http://instagram.com/mtzsantoss__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 
